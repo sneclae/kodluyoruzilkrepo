@@ -1,2 +1,2 @@
 # kodluyoruzilkrepo
-Koduyoruz Frond-End kapsamında açtığım il repo
+Koduyoruz Frond-End kapsamında açtığım il repo.
